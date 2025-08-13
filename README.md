@@ -39,3 +39,24 @@ Principais funções:
 
 
 ---
+
+Abra o código na Arduino IDE.
+
+Configure o SSID e PASSWORD (ou use o WiFiManager).
+
+Compile e envie para o ESP-01S.
+
+Acesse via navegador ou configure seu roteador MikroTik para enviar comandos.
+
+💰 Custo aproximado
+Valor unitário estimado: R$ 36,00
+
+Pode ser reduzido com compras em quantidade.
+
+📜 Licença
+Este projeto está sob a licença MIT - veja o arquivo LICENSE para mais detalhes.
+
+📷 Créditos
+Desenvolvido por Anderson Luis Castro Lima
+
+#ESP8266 #ESP01 #AutomaçãoResidencial #IoT #MikroTik #Eletrônica #CódigosEmbarcados
